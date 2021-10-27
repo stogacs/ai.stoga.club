@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap');
+
+:root {
+    --light: #efefef;
+    --dark: #212121;
+    --red: #e83b3b;
+    --orange: #f79617;
+    --burgundy: #45293f;
+    --darker-burgundy: #362032;
+    --dark-grey: #3e3546;
+    --sky-blue: #8fd3ff;
+}
+
+html { scroll-behavior: smooth;}
+body { font-family: 'Lato', sans-serif; }
+.code { font-family: 'JetBrains Mono', monospace; }
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.no-pointer-events { pointer-events: none; }
