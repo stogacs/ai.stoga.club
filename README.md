@@ -1,4 +1,4 @@
-![Logo](https://stogaai.club/assets/media/logo_text.png)
+![Logo](https://stogaai.club/assets/media/logo/logo_text.png)
 
 # stogaai.club
 Official Stoga AI Club website view at [stogaai.club](https://stogacs.club)
