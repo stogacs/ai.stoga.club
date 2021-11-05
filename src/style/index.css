@@ -45,6 +45,24 @@
 .leadership-image { border-radius: 2em; }
 .leadership-name { padding: 0 3em 0 3em; }
 
+/* Speakers Section */
+#speakers-grid {
+    background-color: var(--light);
+    padding-top: 5%;
+}
+
+/* Digital Literacy Section */
+#diglit-grid {
+    background-color: var(--light);
+    padding-top: 5%;
+}
+
+/* Grants Grid*/
+#grants-grid  {
+    background-color: var(--light);
+    padding-top: 5%;
+}
+
 /* Footer */
 .footer {
     height: 20vh;
