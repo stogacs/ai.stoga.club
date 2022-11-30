@@ -1,4 +1,4 @@
-![at.stoga.club](./banner)
+![at.stoga.club](./banner.png)
 
 Official Stoga AI Club website, you can view it at [ai.stoga.club](https://ai.stoga.club)
 
