@@ -1,0 +1,75 @@
+/*  Navbar CSS */
+#navbar  {
+    font-size: 150%;
+    background-color: var(--burgundy);
+    z-index: 1;
+    position: fixed;
+}
+#navbar > .pure-menu-link { color: var(--orange); }
+#navbar > .pure-menu-list > .pure-menu-item > .pure-menu-link { color: var(--light); }
+
+#navbar > .pure-menu-link:hover,
+#navbar > .pure-menu-link:focus,
+#navbar > .pure-menu-list > .pure-menu-item > .pure-menu-link:hover,
+#navbar > .pure-menu-list > .pure-menu-item > .pure-menu-link:focus
+{background-color: var(--darker-burgundy); }
+
+/*  Cover CSS */
+#cover {
+    height: 80vh;
+    min-height: 500px;
+    background-color: var(--dark);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+/* About Section */
+#about-grid {
+    background-color: var(--light);
+    padding-top: 5%;
+}
+
+#about {
+    font-size: 120%;
+    border-radius: 0.5em;
+}
+
+/* Leadership */
+#leadership-grid {
+    background-color: var(--light);
+    padding-bottom: 5em;
+    font-size: 120%;
+    padding-top: 5%;
+}
+.leadership-container { padding: 1em; }
+.leadership-image { border-radius: 2em; }
+.leadership-name { padding: 0 3em 0 3em; }
+
+/* Speakers Section */
+#speakers-grid {
+    background-color: var(--light);
+    padding-top: 5%;
+}
+
+/* Digital Literacy Section */
+#diglit-grid {
+    background-color: var(--light);
+    padding-top: 5%;
+}
+
+/* Grants Grid*/
+#grants-grid  {
+    background-color: var(--light);
+    padding-top: 5%;
+}
+
+/* Footer */
+.footer {
+    height: 20vh;
+    min-height: 30px;
+    font-size: 130%;
+    background-color: var(--dark);
+}
+
+.footer > p {color: var(--light);}
+.footer > p > a {color: var(--red);}
