@@ -1,7 +1,6 @@
-![Logo](https://stogaai.club/assets/media/logo/logo_text.png)
+![at.stoga.club](./banner)
 
-# stogaai.club
-Official Stoga AI Club website view at [stogaai.club](https://stogaai.club)
+Official Stoga AI Club website, you can view it at [ai.stoga.club](https://ai.stoga.club)
 
 ## Contributing
 All pull requests are welcome.
